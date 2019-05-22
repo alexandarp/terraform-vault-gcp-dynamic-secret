@@ -3,7 +3,7 @@ provider "vault" {
 }
 
 data "vault_generic_secret" "default" {
-  path = "gcp/token/terraform-roleset"
+  path = "gcp/token/terraform-gcp-roleset"
 }
 
 provider "google" {
