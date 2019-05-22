@@ -1,6 +1,6 @@
 # terraform-vault-gcp-dynamic-secret
 
-Requests a GCP OAuth Token then creates storage bucket using those credentials.
+Requests a GCP OAuth Token then creates a storage bucket using those credentials.
 
 This repository was tested with `Terraform v0.11.13` and `Vault v1.0.3`.
 
