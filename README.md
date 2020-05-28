@@ -2,7 +2,7 @@
 
 Requests a GCP OAuth Token then creates a storage bucket using those credentials.
 
-This repository was tested with `Terraform v0.11.13` and `Vault v1.0.3`.
+This repository was tested with `Terraform v0.12.25` and `Vault v1.0.3`.
 
 ## Prerequisites
 

@@ -1,6 +1,6 @@
 variable "address" {
   description = "Vault Server IP"
-  default = "https://35.232.85.114:8200"
+  default     = "https://35.232.85.114:8200"
 }
 
 variable "project" {
@@ -17,3 +17,4 @@ variable "name" {
   description = "Bucket Name"
   default     = "terraform-vault-gcp-dynamic-sa"
 }
+
